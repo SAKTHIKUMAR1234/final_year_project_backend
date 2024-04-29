@@ -1,0 +1,4 @@
+migrations/
+__pycache__/
+trained_model.pkl
+vectorizer.pkl
